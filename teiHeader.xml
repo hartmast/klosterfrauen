@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>
+                Klosterfrauenkorpus: Ein annotiertes Textkorpus zum Sprachgebrauch süddeutscher Klosterfrauen des 17. Jahrhunderts
+            </title>
+            <editor role="CorpusEditor" n="1">
+                <persName>
+                    <forename>Jessica</forename>
+                    <surname>Nowak</surname>
+                </persName>
+                <affiliation>
+                    <orgName type="Department">Deutsches Institut</orgName>
+                    <orgName type="Institution">Johannes Gutenberg-Universität Mainz</orgName>
+                </affiliation>
+            </editor>
+            <editor role="CorpusEditor" n="2">
+                <persName>
+                    <forename>Uta</forename>
+                    <surname>Nolting</surname>
+                </persName>
+                </editor>
+            <editor role="CorpusEditor" n="3">
+                <persName>
+                    <forename>Stefan</forename>
+                    <surname>Hartmann</surname>
+                </persName>
+                <affiliation>
+                    <orgName type="Department">Institut für Germanistik</orgName>
+                    <orgName type="Institution">Otto-Friedrich-Universität Bamberg</orgName>
+                </affiliation>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+           <publisher>Waxmann-Verlag</publisher>
+              <pubPlace>Münster, New York</pubPlace>
+                <availability>
+                    <p>Text: Copyright 2010, Waxmann-Verlag. Annotationen: CC-BY.</p>
+                </availability>
+                <date when="2019" type="CorpusRelease">Veröffentlichung der ersten Betaversion.</date>
+         </publicationStmt>
+        <sourceDesc>
+            <bibl>Nolting, Uta (2010): Sprachgebrauch süddeutscher Klosterfrauen des 17. Jahrhunderts. Münster, New York: Waxmann.</bibl>
+            <list type="CorpusDocument">
+                    <item n="1" corresp="Ernst" />
+                    <item n="2" corresp="Junius" />
+                    <item n="3" corresp="Staiger" />
+                    <item n="4" corresp="Schreiberin_Frauenchiemsee" />
+                    <item n="5" corresp="Ernst_Brief" />
+                    <item n="6" corresp="Staiger_Brief_Fuerstbischof_Westerstetten" />
+                    <item n="7" corresp="Staiger_Brief_Georg_Ludwig_Adam" />
+                    <item n="8" corresp="Staiger_Brief_Schaffnerin_anno" />                     
+             </list>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
