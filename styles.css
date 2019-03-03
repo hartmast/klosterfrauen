@@ -12,6 +12,13 @@ body {
   text-align: justify
 }
 
+.hr1 {
+	background-color: #fefefe;
+	font-family: 'Courier New', Courier, monospace;
+	color: purple;
+	font-size: 13pt;
+}
+
 /* Header/Blog Title */
 .header {
     padding: 0px;

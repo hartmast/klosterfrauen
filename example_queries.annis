@@ -1,0 +1,4 @@
+lemma="Wort"	finds all tokens lemmatized as "Wort".
+tok=/[Ww]ort/	finds all instances of the word forms "Wort" (uppercase) and "wort" (lowercase).
+norm=/[Ww]ort(es)?/	finds all instances of "Wort", "Wortes", "wort", and "wortes" on the token layer containing normalized word forms (i.e. without special characters etc.)
+supplied="added_editors"	finds all tokens and token fragments that have been added by the editors.
